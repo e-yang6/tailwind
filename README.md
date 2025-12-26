@@ -29,8 +29,3 @@ python tailwind.py
 
 - python 3.8+
 - valorant must be running
-
-## disclaimer
-
-uses valorant's local api. don't abuse it.
-
