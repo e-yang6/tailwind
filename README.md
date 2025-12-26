@@ -1,5 +1,12 @@
 # tailwind
 
+<div align="center">
+  
+### Please ⭐ this repository if you use it!
+![Stars](https://img.shields.io/github/stars/e-yang6/RREFCalculator)
+
+</div>
+
 a valorant tool for viewing player info and auto-locking agents.
 
 ## features
